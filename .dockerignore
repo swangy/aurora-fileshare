@@ -1,0 +1,8 @@
+node_modules
+dist
+public/build
+public/sw.js
+.git
+.env
+test/.tmp
+docs
